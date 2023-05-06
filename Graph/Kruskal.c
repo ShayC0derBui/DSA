@@ -290,7 +290,7 @@ int main()
    insert_by_array(G, 3, v_3, 4);
    insert_by_array(G, 4, v_4, 4);
    insert_by_array(G, 5, v_5, 5);
-   insert_by_array(G, 6, v_6, 4
+   insert_by_array(G, 6, v_6, 4);
 
    //If you would like you can also input in graph dynamically...
    //add_value_to_graph(G,number_of_vertex);
